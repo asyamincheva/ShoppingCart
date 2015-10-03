@@ -42,31 +42,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleDatabase.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ISession.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Framework/Sessions/ISession.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultSession.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DefaultSession.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Sessions/DefaultSession.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.116838485">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="20" />
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultRouter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/Routers/DefaultRouter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleDatabase.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,21 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IRouter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Framework/Routers/IRouter.php">
+      <file leaf-file-name="Config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.153846">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultRouter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Framework/Routers/DefaultRouter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -123,10 +113,11 @@
         <option value="$PROJECT_DIR$/Framework/Common.php" />
         <option value="$PROJECT_DIR$/Framework/Routers/IRouter.php" />
         <option value="$PROJECT_DIR$/Framework/Routers/DefaultRouter.php" />
-        <option value="$PROJECT_DIR$/Framework/App.php" />
-        <option value="$PROJECT_DIR$/Framework/Database/SimpleDatabase.php" />
         <option value="$PROJECT_DIR$/Framework/Sessions/ISession.php" />
         <option value="$PROJECT_DIR$/Framework/Sessions/DefaultSession.php" />
+        <option value="$PROJECT_DIR$/Config.php" />
+        <option value="$PROJECT_DIR$/Framework/App.php" />
+        <option value="$PROJECT_DIR$/Framework/Database/SimpleDatabase.php" />
       </list>
     </option>
   </component>
@@ -487,6 +478,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Sessions/DefaultSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Sessions/ISession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43814433">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Framework/App.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -499,22 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Sessions/ISession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Sessions/DefaultSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.116838485">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>
