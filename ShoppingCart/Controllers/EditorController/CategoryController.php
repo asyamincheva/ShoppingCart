@@ -3,7 +3,7 @@
 namespace Controllers\EditorController;
 
 use Framework\BaseController;
-use Models\BindingModels\ProductBindingModel\NameBindingModel;
+use Models\BindingModels\NameBindingModel;
 use Models\BindingModels\RenameBindingModel;
 
 class CategoryController extends BaseController
