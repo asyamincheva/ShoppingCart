@@ -22,16 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SimpleRouter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShoppingCart/Routers/SimpleRouter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.076923">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IndexViewModel.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/HelpViewModel/IndexViewModel.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,11 +52,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategoryViewModel.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CategoryViewModel.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CategoryViewModel/CategoryViewModel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.058419243">
+            <state vertical-scroll-proportion="-1.3076923">
               <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartProductViewModel.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/CartProductViewModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.058419243">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckoutViewModel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/CheckoutViewModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3076923">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexViewModel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/IndexViewModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3076923">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -152,6 +182,10 @@
         <option value="$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CategoryViewModel/CategoryViewModel.php" />
         <option value="$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CategoryViewModel/IndexViewModel.php" />
         <option value="$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CategoryViewModel/ShowViewModel.php" />
+        <option value="$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/CartProductViewModel.php" />
+        <option value="$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/CheckoutViewModel.php" />
+        <option value="$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/IndexViewModel.php" />
+        <option value="$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/Product.php" />
       </list>
     </option>
   </component>
@@ -399,6 +433,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CategoryViewModel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ViewModels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CartViewModel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -969,8 +1029,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CategoryViewModel/CategoryViewModel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.058419243">
+        <state vertical-scroll-proportion="-1.3076923">
           <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/IndexViewModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/CheckoutViewModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShoppingCart/Models/ViewModels/CartViewModel/CartProductViewModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058419243">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
           <folding />
         </state>
       </provider>
