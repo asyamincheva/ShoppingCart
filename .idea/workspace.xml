@@ -42,16 +42,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultRouter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Framework/Routers/DefaultRouter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SimpleDatabase.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputData.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InputData.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/InputData.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.6580756">
+            <state vertical-scroll-proportion="-59.5">
               <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
               <folding>
                 <element signature="e#679#796#0#PHP" expanded="false" />
@@ -111,6 +101,16 @@
                 <element signature="e#2308#2493#0#PHP" expanded="false" />
                 <element signature="e#2941#3169#0#PHP" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Token.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Framework/Token.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.40206185">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,6 +166,7 @@
         <option value="$PROJECT_DIR$/BaseController.php" />
         <option value="$PROJECT_DIR$/Framework/Injector.php" />
         <option value="$PROJECT_DIR$/Framework/InputData.php" />
+        <option value="$PROJECT_DIR$/Framework/Token.php" />
       </list>
     </option>
   </component>
@@ -483,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Framework/InputData.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.6580756">
+        <state vertical-scroll-proportion="-59.5">
           <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
           <folding>
             <element signature="e#679#796#0#PHP" expanded="false" />
@@ -493,6 +494,14 @@
             <element signature="e#2308#2493#0#PHP" expanded="false" />
             <element signature="e#2941#3169#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Token.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.40206185">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
