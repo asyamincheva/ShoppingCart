@@ -52,15 +52,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleDatabase.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleDatabase.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18213059">
-              <caret line="151" column="13" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="13" />
+            <state vertical-scroll-proportion="-4.576923">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding>
                 <element signature="e#38#56#0#PHP" expanded="true" />
-                <marker date="1443891069445" expanded="true" signature="2730:2809" placeholder="SELECT isAdm..users..." />
-                <marker date="1443891069445" expanded="true" signature="3412:3498" placeholder="SELECT ${{$c..." />
+                <marker date="1443891957445" expanded="true" signature="2730:2809" placeholder="SELECT isAdm..users..." />
+                <marker date="1443891957445" expanded="true" signature="3412:3498" placeholder="SELECT ${{$c..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AjaxViewHelper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/AjaxViewHelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-41.192307">
+              <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BaseController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41580757">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <element signature="e#29#67#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,11 +91,9 @@
       <file leaf-file-name="App.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/App.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-              <folding>
-                <element signature="e#29#67#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="119.5">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,8 +101,8 @@
       <file leaf-file-name="Config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-51.0">
-              <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,10 +131,12 @@
         <option value="$PROJECT_DIR$/Framework/Routers/DefaultRouter.php" />
         <option value="$PROJECT_DIR$/Framework/Sessions/ISession.php" />
         <option value="$PROJECT_DIR$/Framework/Sessions/DefaultSession.php" />
-        <option value="$PROJECT_DIR$/Framework/Database/SimpleDatabase.php" />
         <option value="$PROJECT_DIR$/Config.php" />
         <option value="$PROJECT_DIR$/Framework/Config.php" />
         <option value="$PROJECT_DIR$/Framework/App.php" />
+        <option value="$PROJECT_DIR$/Framework/Database/SimpleDatabase.php" />
+        <option value="$PROJECT_DIR$/Framework/AjaxViewHelper.php" />
+        <option value="$PROJECT_DIR$/BaseController.php" />
       </list>
     </option>
   </component>
@@ -473,32 +495,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Config.php">
+    <entry file="file://$PROJECT_DIR$/Framework/App.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-51.0">
-          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        <state vertical-scroll-proportion="119.5">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/App.php">
+    <entry file="file://$PROJECT_DIR$/Framework/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="e#29#67#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18213059">
-          <caret line="151" column="13" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="13" />
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
             <element signature="e#38#56#0#PHP" expanded="true" />
-            <marker date="1443891069445" expanded="true" signature="2730:2809" placeholder="SELECT isAdm..users..." />
-            <marker date="1443891069445" expanded="true" signature="3412:3498" placeholder="SELECT ${{$c..." />
+            <marker date="1443891957445" expanded="true" signature="2730:2809" placeholder="SELECT isAdm..users..." />
+            <marker date="1443891957445" expanded="true" signature="3412:3498" placeholder="SELECT ${{$c..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/AjaxViewHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-41.192307">
+          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41580757">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="e#29#67#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

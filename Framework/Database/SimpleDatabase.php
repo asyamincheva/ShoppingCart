@@ -157,7 +157,7 @@ class SimpleDatabase
             $response = $statement->fetch(\PDO::FETCH_ASSOC);
             $response = $response['is' . ucfirst($role)];
         } catch (\PDOException $ex) {
-            throw new \Exception("Check your db, missing role '$col'");
+            throw new \Exception("Please, check your database! Missing role: '$col'");
         }
 
         if ($response) {
