@@ -32,16 +32,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultSession.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Framework/Sessions/DefaultSession.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SimpleDatabase.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Token.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Token.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Token.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.40206185">
+            <state vertical-scroll-proportion="9.0">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseValidator.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Framework/Database/DatabaseValidator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29896906">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -167,6 +167,8 @@
         <option value="$PROJECT_DIR$/Framework/Injector.php" />
         <option value="$PROJECT_DIR$/Framework/InputData.php" />
         <option value="$PROJECT_DIR$/Framework/Token.php" />
+        <option value="$PROJECT_DIR$/DatabaseValidator.php" />
+        <option value="$PROJECT_DIR$/Framework/Database/DatabaseValidator.php" />
       </list>
     </option>
   </component>
@@ -239,6 +241,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -255,6 +275,7 @@
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\Framework\Routers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\Framework\Database" />
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\Framework" />
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\public" />
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\app" />
@@ -499,8 +520,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Framework/Token.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.40206185">
+        <state vertical-scroll-proportion="9.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Database/DatabaseValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29896906">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
           <folding />
         </state>
       </provider>
