@@ -15,7 +15,7 @@ class Config
     public function setConfigFolder($configFolder)
     {
         if (!$configFolder) {
-            throw new \Exception('Empty Config folder path.');
+            throw new \Exception('Configuration folder path is empty!');
         }
 
         $realPath = realpath($configFolder);
