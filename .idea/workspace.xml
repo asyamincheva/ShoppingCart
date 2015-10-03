@@ -76,14 +76,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BaseController.php">
+      <file leaf-file-name="BaseController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/BaseController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41580757">
+            <state vertical-scroll-proportion="-34.0">
               <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
               <folding>
                 <element signature="e#29#67#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Injector.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Framework/Injector.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.6649485">
+              <caret line="57" column="94" selection-start-line="57" selection-start-column="94" selection-end-line="57" selection-end-column="94" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,6 +147,7 @@
         <option value="$PROJECT_DIR$/Framework/Database/SimpleDatabase.php" />
         <option value="$PROJECT_DIR$/Framework/AjaxViewHelper.php" />
         <option value="$PROJECT_DIR$/BaseController.php" />
+        <option value="$PROJECT_DIR$/Framework/Injector.php" />
       </list>
     </option>
   </component>
@@ -325,6 +336,7 @@
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\Framework\Routers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\Framework" />
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\public" />
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\app" />
     </key>
@@ -531,13 +543,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaseController.php">
+    <entry file="file://$PROJECT_DIR$/Framework/BaseController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41580757">
+        <state vertical-scroll-proportion="-34.0">
           <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
           <folding>
             <element signature="e#29#67#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Injector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6649485">
+          <caret line="57" column="94" selection-start-line="57" selection-start-column="94" selection-end-line="57" selection-end-column="94" />
+          <folding />
         </state>
       </provider>
     </entry>
