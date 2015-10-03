@@ -32,11 +32,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Common.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Common.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Common.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6357388">
+            <state vertical-scroll-proportion="-36.615383">
               <caret line="56" column="75" selection-start-line="56" selection-start-column="75" selection-end-line="56" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleDatabase.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/App.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRouter.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Framework/Routers/IRouter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.35051546">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,9 +90,10 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/public/css/styles.css" />
         <option value="$PROJECT_DIR$/Framework/App.php" />
-        <option value="$PROJECT_DIR$/Framework/Database/SimpleDatabase.php" />
         <option value="$PROJECT_DIR$/Framework/Autoloader.php" />
         <option value="$PROJECT_DIR$/Framework/Common.php" />
+        <option value="$PROJECT_DIR$/Framework/Database/SimpleDatabase.php" />
+        <option value="$PROJECT_DIR$/Framework/Routers/IRouter.php" />
       </list>
     </option>
   </component>
@@ -213,6 +244,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Routers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Database" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -229,6 +278,9 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\Framework\Routers" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\public" />
       <recent name="D:\Programmes-asya\xampp\htdocs\ShoppingCart\app" />
@@ -344,22 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/App.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.030035336">
@@ -378,8 +414,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Framework/Common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6357388">
+        <state vertical-scroll-proportion="-36.615383">
           <caret line="56" column="75" selection-start-line="56" selection-start-column="75" selection-end-line="56" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Database/SimpleDatabase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/App.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Routers/IRouter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35051546">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
