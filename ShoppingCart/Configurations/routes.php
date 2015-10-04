@@ -39,7 +39,7 @@ $config['*'][CONTROLLERS]['help'][GOES_TO] = 'help';
 $config['*'][CONTROLLERS]['help'][METHODS]['index'] = 'index';
 
 // Administration panel
-$config['Admin'][NS] = 'Controllers\Admin';
+$config['Admin'][NS] = 'Controllers\AdminController';
 $config['Admin'][CONTROLLERS]['index'][GOES_TO] = 'index';
 $config['Admin'][CONTROLLERS]['index'][METHODS]['index'] = 'index';
 $config['Admin'][CONTROLLERS]['index'][REQUEST_METHOD]['index'] = 'get';
@@ -51,7 +51,7 @@ $config['Admin'][CONTROLLERS]['index'][METHODS]['remove'] = 'remove';
 $config['Admin'][CONTROLLERS]['index'][REQUEST_METHOD]['remove'] = 'delete';
 
 // Editor panel
-$config['Editor'][NS] = 'Controllers\Editor';
+$config['Editor'][NS] = 'Controllers\EditorController';
 $config['Editor'][CONTROLLERS]['index'][GOES_TO] = 'index';
 $config['Editor'][CONTROLLERS]['index'][METHODS]['index'] = 'index';
 $config['Editor'][CONTROLLERS]['index'][REQUEST_METHOD]['index'] = 'get';

@@ -1,6 +1,6 @@
 <?php
 
-$config['default_path'] = "http://{$_SERVER['SERVER_NAME']}/Project/";
+$config['default_path'] = "http://{$_SERVER['SERVER_NAME']}/ShoppingCart/";
 $config['default_controller'] = 'Index';
 $config['default_method'] = 'index';
 $config['namespaces']['Controllers'] = 'ShoppingCart/Controllers/';
