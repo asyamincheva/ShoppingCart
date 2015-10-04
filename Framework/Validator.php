@@ -1,6 +1,6 @@
 <?php
 
-namespace Framework\Database;
+namespace Framework;
 
 use Framework\Database\SimpleDatabase;
 
@@ -53,7 +53,7 @@ class Validator
     }
 
     /**
-     * Called when there isn't a function with given name.
+     * Called when no function with given name exists.
      */
     public function __call($a, $b)
     {

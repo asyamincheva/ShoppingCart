@@ -117,7 +117,7 @@ class App
     public function run()
     {
         if ($this->_config->getConfigFolder() == null) {
-            $this->setConfigFolder('ShoppingCart/config');
+            $this->setConfigFolder('ShoppingCart/Configurations');
         }
 
         $this->_frontController = FrontController::getInstance();

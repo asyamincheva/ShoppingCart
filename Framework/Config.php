@@ -50,7 +50,6 @@ class Config
 
     public function includeConfigFile($path)
     {
-        echo $path;
         if (!$path) {
             throw new \Exception('Empty config path');
         }
