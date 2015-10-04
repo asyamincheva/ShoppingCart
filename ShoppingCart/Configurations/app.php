@@ -7,7 +7,7 @@ $config['namespaces']['Controllers'] = 'ShoppingCart/Controllers/';
 $config['namespaces']['Routers'] = 'ShoppingCart/Routers/';
 $config['namespaces']['Models'] = 'ShoppingCart/Models/';
 
-$config['displayExceptions'] = false;
+$config['displayExceptions'] = true;
 
 $config['session']['auto_start'] = true;
 $config['session']['type'] = 'native';
